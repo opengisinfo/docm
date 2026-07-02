@@ -4,12 +4,12 @@ The **Document Generation Platform (DOCM)** lets you create, manage, and export 
 
 ## Functions
 
-✅ Centralized template storage with browsing, editing, and versioning.
-✅ Online editor for creating and updating templates with variables and preview support.
-✅ Service that combines a template, data, and additional parameters to produce a ready document.
-✅ Storage for all created documents with viewing, editing, and status management.
-✅ JSON data, form input, or external ID (integration with business systems).
-✅ Export to PDF, DOCX
+- Centralized template storage with browsing, editing, and versioning.
+- Online editor for creating and updating templates with variables and preview support.
+- Service that combines a template, data, and additional parameters to produce a ready document.
+- Storage for all created documents with viewing, editing, and status management.
+- JSON data, form input, or external ID (integration with business systems).
+- Export to PDF, DOCX
 
 ## Install and Usage
 
